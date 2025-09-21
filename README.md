@@ -10,13 +10,13 @@ By utilizing the **YOLOv8l face detection** model, Attendify delivers **robust p
 ## 📸 Screenshots
 
 ### Login Screen  
-![Login Screen](D:\hackathon\login.jpg)  
+![Login Screen](NeuraX\images\login.jpg)  
 
 ### Web Dashboard  
-![Web Dashboard](D:\hackathon\web-dash.jpg)  
+![Web Dashboard](NeuraX\images\web-dash.jpg)  
 
 ### Mobile App  
-![Mobile App](D:\hackathon\mob-dash.jpg)  
+![Mobile App](NeuraX\images\mob-dash.jpg)  
 
 - Secure login portal for authorized users.  
 - Main dashboard for enrolling students and marking attendance.  
